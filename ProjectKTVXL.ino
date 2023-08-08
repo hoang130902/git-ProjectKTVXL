@@ -9,13 +9,10 @@
 #include <DHT.h> 
 
 
-
 char ssid[] = "Sunhuyn";
 char pass[] = "h.anhthu1305";
 
-
 char auth[] = "AA59R6eVLNxNI3xZGDxhFXsXCkco4V0s";
-
 
 #define DHT_PIN 26  // kết nối cảm biến dht11 với chân D26
 #define DHT_TYPE DHT11
